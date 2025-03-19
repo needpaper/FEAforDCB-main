@@ -10,4 +10,4 @@
 
 ## Usage
 
-Abaqus GUI plugin for finite element analysis of deployable composit booms（DCBs）.
+Abaqus GUI plugin for finite element analysis of deployable composite booms（DCBs）.
